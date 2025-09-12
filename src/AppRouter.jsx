@@ -12,16 +12,8 @@ import './App.css';
 import Teams from './Components/Teams.jsx';
 import Moments from './Components/Moments.jsx';
 import Rules from './Components/Rules.jsx';
+import Home from './Components/Home.jsx';
 
-
-function Home() {
-    return (
-        <div className="page">
-            <h2>Home</h2>
-            <p>Welcome to the Home page.</p>
-        </div>
-    );
-}
 
 const tabs = [
     {name: "Home", path: "/", element: <Home />},
@@ -47,6 +39,15 @@ function Layout() {
             <main className="content">
                 <Outlet />
             </main>
+
+            <footer className="app-footer">
+                Website made by Elan Goldman for OCP water assassin 2025
+
+                <p> Website made possible by our generous donors:</p>
+                <p className='gold'>Gold Sponsors: Daniel Kalimi</p>
+                <p className='silver'>Silver Sponsors: Elinana Pastenak</p>
+                <p className='honorable'>Honorable mentions: Rina</p>
+            </footer>
         </div>
     );
 }
