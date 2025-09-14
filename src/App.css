@@ -9,6 +9,7 @@
 
 .app-header {
   background: #011F5B;
+  width: 100%;
   border-bottom: 1px solid #990000;
   padding-top: 1rem;
   display: grid;
@@ -39,7 +40,7 @@
   display: flex;
   gap: 0.5rem;
   align-self: center;
-  font-size: 25px;
+  font-size: clamp(14px, 2vw, 18px);
 }
 
 
