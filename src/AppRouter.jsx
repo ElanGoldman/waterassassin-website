@@ -27,7 +27,6 @@ function Layout() {
     return (
         <div className="app-container">
             <header className="app-header">
-                <div className="brand">My App</div>
                 <nav className="tabs">
                     {tabs.map(tab => (
                         <NavLink to={tab.path} end className={({ isActive }) => (isActive ? "tab active" : "tab")}>{tab.name}</NavLink>
@@ -45,7 +44,7 @@ function Layout() {
 
                 <p> Website made possible by our generous donors:</p>
                 <p className='gold'>Gold Sponsors: Daniel Kalimi</p>
-                <p className='silver'>Silver Sponsors: Elinana Pastenak</p>
+                <p className='silver'>Silver Sponsors: Eliana Pasternak</p>
                 <p className='honorable'>Honorable mentions: Rina</p>
             </footer>
         </div>

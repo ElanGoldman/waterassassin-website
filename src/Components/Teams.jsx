@@ -1,8 +1,8 @@
 
 const teamsIn = [
-    { id: 2, name: "Team E-Squad", members: ["Hannah Feld", "Eliana", "Elan", "Eliav"] },
+    { id: 2, name: "Team Kamikaze", members: ["Hannah Feld", "Eliana", "Elan", "Eliav"] },
     { id: 7, name: "Team NJRB", members: ["Noah", "Josh Weiss", "Rosie", "Ben Edidin"] },
-    { id: 11, name: "Team ERSR", members: ["Ella", "Eyal", "Sammy", "Ronan"] }
+    { id: 11, name: "Team Snipers", members: ["Ella", "Eyal", "Sammy", "Ronan"] }
 ];
 
 const teamsOut = [
