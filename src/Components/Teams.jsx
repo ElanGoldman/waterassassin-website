@@ -1,19 +1,19 @@
 
 const teamsIn = [
-    { id: 2, name: "Team Kamikaze", members: ["Hannah Feld", "Eliana", "Elan", "Eliav"] },
-    { id: 7, name: "Team NJRB", members: ["Noah", "Josh Weiss", "Rosie", "Ben Edidin"] },
-    { id: 11, name: "Team Snipers", members: ["Ella", "Eyal", "Sammy", "Ronan"] }
+    { id: 1, name: "Team 1", members: ["Bedidin", "Elan", "Raanan", "Ella", "Aquiba"] },
+    { id: 2, name: "Team 2", members: ["Rena", "Mas", "Lili G", "Leah W", "Hannah S"] },
+    { id: 3, name: "Team 3", members: ["Ben Z", "Lexi", "David K", "Hannah W"] },
+    { id: 4, name: "Team 4", members: ["Eyal", "Adam R", "Rebecca", "David M"] },
+    { id: 5, name: "Team 5", members: ["Eliav", "Leah B", "Kyle", "Lani", "Chaim Medetsky"] },
+    { id: 6, name: "Team 6", members: ["Madeline", "Joey", "Hannah F", "Masha"] },
+    { id: 7, name: "Team 7", members: ["J", "Noah", "Gabri", "Mollie", "Edmond"] },
+    { id: 8, name: "Team 8", members: ["Sammy", "Adam D", "Jebrani", "Jonah", "MoCo"] },
+    { id: 9, name: "Team 9", members: ["Izzy G", "Ariel", "Eliana", "Izzy I", "H Yellin"] },
+    { id: 10, name: "Team 10", members: ["Oren", "Sean", "Evie", "Maya", "Aryeh"] }
 ];
 
 const teamsOut = [
-    { id: 1, name: "Team LA³", members: ["Leah Weinberger", "Amalya", "Adam", "Ariel"] },
-    { id: 3, name: "Team LEXI-TAN", members: ["Izzy Ingber", "Lexi", "Eitan Moore", "Lani"] },
-    { id: 4, name: "Team D-MER", members: ["Daniel", "Mollie", "Eitan", "Rena"] },
-    { id: 5, name: "Team MKSM", members: ["Morris", "Kyle", "Sean", "Maor"] },
-    { id: 6, name: "Team JASL", members: ["Jay", "Asher", "Sophia", "Lyla"] },
-    { id: 8, name: "Team J²DI", members: ["Jordan", "Joey", "David", "Izzy Goldberg"] },
-    { id: 9, name: "Team BRMC", members: ["Beaue", "Madeline", "Rebecca", "Chaim"] },
-    { id: 10, name: "Team JONN", members: ["Josh Ebrani", "Oren", "Nava", "Noa"] }
+
 ];
 
 

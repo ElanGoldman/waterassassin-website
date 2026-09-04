@@ -40,12 +40,12 @@ function Layout() {
             </main>
 
             <footer className="app-footer">
-                Website made by Elan Goldman for OCP water assassin 2025
+                Website made by Elan Goldman for OCP water assassin 2025 (updated by Sammy Cohen for 2026)
 
                 <p> Website made possible by our generous donors:</p>
                 <p className='gold'>Gold Sponsors: Daniel Kalimi</p>
                 <p className='silver'>Silver Sponsors: Eliana Pasternak</p>
-                <p className='honorable'>Honorable mentions: Rina</p>
+                <p className='honorable'>Honorable mentions: Rena</p>
             </footer>
         </div>
     );
