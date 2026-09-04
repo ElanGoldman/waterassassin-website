@@ -1,6 +1,6 @@
 
 const teamsIn = [
-    { id: 1, name: "Team 1", members: ["Bedidin", "Elan", "Raanan", "Ella", "Aquiba"] },
+    { id: 1, name: "Team 1", members: ["Bedidin", "Elan", "Raanan", "Ella"] },
     { id: 2, name: "Team 2", members: ["Rena", "Mas", "Lili G", "Leah W", "Hannah S"] },
     { id: 3, name: "Team 3", members: ["Ben Z", "Lexi", "David K", "Hannah W"] },
     { id: 4, name: "Team 4", members: ["Eyal", "Adam R", "Rebecca", "David M"] },
