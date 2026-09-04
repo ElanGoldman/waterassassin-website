@@ -46,6 +46,7 @@ function Layout() {
                 <p className='gold'>Gold Sponsors: Daniel Kalimi</p>
                 <p className='silver'>Silver Sponsors: Eliana Pasternak</p>
                 <p className='honorable'>Honorable mentions: Rena</p>
+                <p> Interested in donating? Contact Sammy: scohen27@sas.upenn.edu</p>
             </footer>
         </div>
     );
